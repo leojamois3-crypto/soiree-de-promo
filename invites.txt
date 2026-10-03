@@ -1,2 +1,4 @@
 Invités
 - moi
+- ami 1
+- ami 2
